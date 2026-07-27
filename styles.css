@@ -1,0 +1,4 @@
+/* Settings-only styling; export CSS is inlined at export time. */
+.clean-export-settings .setting-item-description {
+	white-space: pre-wrap;
+}
