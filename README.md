@@ -1,4 +1,4 @@
-# 干净导出 PDF / DOCX（Obsidian 插件）
+﻿# 干净导出 PDF / DOCX（Obsidian 插件）
 
 把当前笔记导出为 **不跟随主题配色** 的 PDF，以及 **固定公文式版式** 的 DOCX，方便后续在 Word 里微调。
 
@@ -29,7 +29,7 @@
 ## 安装
 
 ```powershell
-cd C:\Users\LXP\Projects\obsidian-clean-export
+# 在项目根目录执行
 npm install
 npm run build
 ```
