@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build
+main.js
+main.js.map
+*.js.map
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Obsidian local test vault copy (optional)
+.obsidian/
+
+# Local smoke artifacts
+smoke-test.docx
