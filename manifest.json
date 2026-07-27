@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-clean-export",
+  "name": "干净导出 PDF/DOCX",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "按固定版式导出当前笔记为 PDF 与 DOCX，不跟随 Obsidian 主题配色。",
+  "author": "LXP",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
